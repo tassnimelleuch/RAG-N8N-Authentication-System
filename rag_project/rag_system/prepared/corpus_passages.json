@@ -1,0 +1,674 @@
+[
+  {
+    "passage_id": "credential_stuffing_p01",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte. Indices : fréquence, IP, device.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p02",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p03",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte. Indices : fréquence, IP, device.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p04",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p05",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Échecs rapides sur le même identifiant avec IP variées — pattern typique de credential stuffing. Indices : fréquence, IP, device.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p06",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p07",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Échecs rapides sur le même identifiant avec IP variées — pattern typique de credential stuffing. Indices : fréquence, IP, device.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p08",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Échecs rapides sur le même identifiant avec IP variées — pattern typique de credential stuffing.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p09",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte. Indices : fréquence, IP, device.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p10",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p11",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte. Indices : fréquence, IP, device.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "credential_stuffing_p12",
+    "doc_id": "credential_stuffing_doc",
+    "content": "Échecs rapides sur le même identifiant avec IP variées — pattern typique de credential stuffing.",
+    "tags": [
+      "credential_stuffing"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p01",
+    "doc_id": "brute_force_doc",
+    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force. Indices : fréquence, IP, device.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p02",
+    "doc_id": "brute_force_doc",
+    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p03",
+    "doc_id": "brute_force_doc",
+    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force. Indices : fréquence, IP, device.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p04",
+    "doc_id": "brute_force_doc",
+    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p05",
+    "doc_id": "brute_force_doc",
+    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force. Indices : fréquence, IP, device.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p06",
+    "doc_id": "brute_force_doc",
+    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p07",
+    "doc_id": "brute_force_doc",
+    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable. Indices : fréquence, IP, device.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p08",
+    "doc_id": "brute_force_doc",
+    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p09",
+    "doc_id": "brute_force_doc",
+    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable. Indices : fréquence, IP, device.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p10",
+    "doc_id": "brute_force_doc",
+    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p11",
+    "doc_id": "brute_force_doc",
+    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable. Indices : fréquence, IP, device.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "brute_force_p12",
+    "doc_id": "brute_force_doc",
+    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force.",
+    "tags": [
+      "brute_force"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p01",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p02",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Comportement inhabituel après réception d'un email frauduleux : login depuis nouveau device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p03",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p04",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p05",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p06",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p07",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p08",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Comportement inhabituel après réception d'un email frauduleux : login depuis nouveau device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p09",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p10",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p11",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Comportement inhabituel après réception d'un email frauduleux : login depuis nouveau device. Indices : fréquence, IP, device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "phishing_attempt_p12",
+    "doc_id": "phishing_attempt_doc",
+    "content": "Comportement inhabituel après réception d'un email frauduleux : login depuis nouveau device.",
+    "tags": [
+      "phishing_attempt"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p01",
+    "doc_id": "session_hijack_doc",
+    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session. Indices : fréquence, IP, device.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p02",
+    "doc_id": "session_hijack_doc",
+    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p03",
+    "doc_id": "session_hijack_doc",
+    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p04",
+    "doc_id": "session_hijack_doc",
+    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p05",
+    "doc_id": "session_hijack_doc",
+    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p06",
+    "doc_id": "session_hijack_doc",
+    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p07",
+    "doc_id": "session_hijack_doc",
+    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p08",
+    "doc_id": "session_hijack_doc",
+    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p09",
+    "doc_id": "session_hijack_doc",
+    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p10",
+    "doc_id": "session_hijack_doc",
+    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p11",
+    "doc_id": "session_hijack_doc",
+    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "session_hijack_p12",
+    "doc_id": "session_hijack_doc",
+    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal.",
+    "tags": [
+      "session_hijack"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p01",
+    "doc_id": "malware_activity_doc",
+    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante. Indices : fréquence, IP, device.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p02",
+    "doc_id": "malware_activity_doc",
+    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p03",
+    "doc_id": "malware_activity_doc",
+    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware. Indices : fréquence, IP, device.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p04",
+    "doc_id": "malware_activity_doc",
+    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p05",
+    "doc_id": "malware_activity_doc",
+    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware. Indices : fréquence, IP, device.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p06",
+    "doc_id": "malware_activity_doc",
+    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p07",
+    "doc_id": "malware_activity_doc",
+    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware. Indices : fréquence, IP, device.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p08",
+    "doc_id": "malware_activity_doc",
+    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p09",
+    "doc_id": "malware_activity_doc",
+    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante. Indices : fréquence, IP, device.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p10",
+    "doc_id": "malware_activity_doc",
+    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p11",
+    "doc_id": "malware_activity_doc",
+    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante. Indices : fréquence, IP, device.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "malware_activity_p12",
+    "doc_id": "malware_activity_doc",
+    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware.",
+    "tags": [
+      "malware_activity"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p01",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel. Indices : fréquence, IP, device.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p02",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p03",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel. Indices : fréquence, IP, device.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p04",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p05",
+    "doc_id": "insider_threat_doc",
+    "content": "Téléchargements massifs ou accès hors horaire d'un compte interne — comportement anormal. Indices : fréquence, IP, device.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p06",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p07",
+    "doc_id": "insider_threat_doc",
+    "content": "Téléchargements massifs ou accès hors horaire d'un compte interne — comportement anormal. Indices : fréquence, IP, device.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p08",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p09",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel. Indices : fréquence, IP, device.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p10",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p11",
+    "doc_id": "insider_threat_doc",
+    "content": "Téléchargements massifs ou accès hors horaire d'un compte interne — comportement anormal. Indices : fréquence, IP, device.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "insider_threat_p12",
+    "doc_id": "insider_threat_doc",
+    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel.",
+    "tags": [
+      "insider_threat"
+    ]
+  },
+  {
+    "passage_id": "normal_p01",
+    "doc_id": "normal_doc",
+    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p02",
+    "doc_id": "normal_doc",
+    "content": "Échec isolé de mot de passe puis succès depuis le même device — comportement normal.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p03",
+    "doc_id": "normal_doc",
+    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p04",
+    "doc_id": "normal_doc",
+    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p05",
+    "doc_id": "normal_doc",
+    "content": "Échec isolé de mot de passe puis succès depuis le même device — comportement normal. Indices : fréquence, IP, device.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p06",
+    "doc_id": "normal_doc",
+    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p07",
+    "doc_id": "normal_doc",
+    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p08",
+    "doc_id": "normal_doc",
+    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p09",
+    "doc_id": "normal_doc",
+    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p10",
+    "doc_id": "normal_doc",
+    "content": "Échec isolé de mot de passe puis succès depuis le même device — comportement normal.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p11",
+    "doc_id": "normal_doc",
+    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device.",
+    "tags": [
+      "normal"
+    ]
+  },
+  {
+    "passage_id": "normal_p12",
+    "doc_id": "normal_doc",
+    "content": "Échec isolé de mot de passe puis succès depuis le même device — comportement normal.",
+    "tags": [
+      "normal"
+    ]
+  }
+]

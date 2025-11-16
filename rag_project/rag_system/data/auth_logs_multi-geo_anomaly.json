@@ -1,0 +1,1866 @@
+[
+  {
+    "id": 1,
+    "user_id": 42,
+    "timestamp": "2025-10-03T13:27:22",
+    "ip": "200.215.202.6",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 1,
+      "geo_velocity": 1125.96,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 2,
+    "user_id": 4,
+    "timestamp": "2025-09-02T07:42:35",
+    "ip": "95.16.204.205",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 1,
+      "geo_velocity": 5238.38,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 3,
+    "user_id": 33,
+    "timestamp": "2025-09-14T09:56:49",
+    "ip": "165.152.119.119",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 3,
+      "geo_velocity": 1918.96,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 4,
+    "user_id": 24,
+    "timestamp": "2025-10-10T08:10:00",
+    "ip": "24.167.162.178",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 4,
+      "geo_velocity": 7274.19,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 5,
+    "user_id": 45,
+    "timestamp": "2025-10-11T16:42:33",
+    "ip": "249.240.246.229",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 4,
+      "geo_velocity": 2509.95,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 6,
+    "user_id": 25,
+    "timestamp": "2025-09-15T02:13:06",
+    "ip": "162.177.73.121",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 3,
+      "geo_velocity": 11745.19,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 7,
+    "user_id": 6,
+    "timestamp": "2025-09-18T17:10:28",
+    "ip": "12.13.225.52",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 3,
+      "geo_velocity": 10923.01,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 8,
+    "user_id": 45,
+    "timestamp": "2025-09-19T03:52:12",
+    "ip": "173.136.89.139",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 2,
+      "geo_velocity": 8792.69,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 9,
+    "user_id": 27,
+    "timestamp": "2025-09-01T01:53:55",
+    "ip": "105.159.108.7",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 3,
+      "geo_velocity": 6150.69,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 10,
+    "user_id": 49,
+    "timestamp": "2025-10-16T11:50:48",
+    "ip": "14.243.255.124",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 3,
+      "geo_velocity": 9474.6,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 11,
+    "user_id": 10,
+    "timestamp": "2025-10-12T16:20:17",
+    "ip": "224.163.40.120",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 3,
+      "geo_velocity": 2357.33,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 12,
+    "user_id": 1,
+    "timestamp": "2025-09-05T17:37:43",
+    "ip": "39.187.166.149",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 4,
+      "geo_velocity": 6213.92,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 13,
+    "user_id": 40,
+    "timestamp": "2025-09-17T04:00:51",
+    "ip": "154.239.221.103",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 5,
+      "geo_velocity": 1056.84,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 14,
+    "user_id": 12,
+    "timestamp": "2025-10-11T05:56:29",
+    "ip": "44.225.33.142",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 3,
+      "geo_velocity": 3616.54,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 15,
+    "user_id": 19,
+    "timestamp": "2025-10-17T14:45:04",
+    "ip": "86.50.217.189",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 2,
+      "geo_velocity": 11871.87,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 16,
+    "user_id": 43,
+    "timestamp": "2025-09-15T20:53:08",
+    "ip": "250.2.94.218",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 3,
+      "geo_velocity": 7792.63,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 17,
+    "user_id": 7,
+    "timestamp": "2025-09-29T17:31:06",
+    "ip": "113.171.61.225",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 2,
+      "geo_velocity": 4643.58,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 18,
+    "user_id": 35,
+    "timestamp": "2025-09-09T23:12:25",
+    "ip": "229.128.11.67",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 1,
+      "geo_velocity": 10601.5,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 19,
+    "user_id": 12,
+    "timestamp": "2025-09-22T06:04:59",
+    "ip": "252.203.35.152",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 5,
+      "geo_velocity": 2607.3,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 20,
+    "user_id": 13,
+    "timestamp": "2025-09-03T15:31:26",
+    "ip": "161.172.42.255",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 4,
+      "geo_velocity": 7933.71,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 21,
+    "user_id": 38,
+    "timestamp": "2025-10-14T05:35:51",
+    "ip": "195.142.59.33",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 3,
+      "geo_velocity": 893.02,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 22,
+    "user_id": 45,
+    "timestamp": "2025-10-05T05:14:14",
+    "ip": "35.171.234.8",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 3,
+      "geo_velocity": 992.17,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 23,
+    "user_id": 8,
+    "timestamp": "2025-09-18T18:20:48",
+    "ip": "249.239.129.150",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 3,
+      "geo_velocity": 6995.75,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 24,
+    "user_id": 21,
+    "timestamp": "2025-09-02T14:50:14",
+    "ip": "165.67.103.45",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 3,
+      "geo_velocity": 4378.7,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 25,
+    "user_id": 19,
+    "timestamp": "2025-09-14T19:31:33",
+    "ip": "196.92.247.137",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 5,
+      "geo_velocity": 3325.27,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 26,
+    "user_id": 32,
+    "timestamp": "2025-10-19T17:36:52",
+    "ip": "33.35.123.239",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 5,
+      "geo_velocity": 2036.01,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 27,
+    "user_id": 46,
+    "timestamp": "2025-09-13T07:19:38",
+    "ip": "18.6.35.184",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 1,
+      "geo_velocity": 5898.24,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 28,
+    "user_id": 47,
+    "timestamp": "2025-09-18T20:47:36",
+    "ip": "16.152.97.98",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 2,
+      "geo_velocity": 2242.78,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 29,
+    "user_id": 39,
+    "timestamp": "2025-09-22T18:04:53",
+    "ip": "249.16.99.64",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 2,
+      "geo_velocity": 8554.06,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 30,
+    "user_id": 28,
+    "timestamp": "2025-10-04T08:26:31",
+    "ip": "20.157.240.109",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 2,
+      "geo_velocity": 5947.06,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 31,
+    "user_id": 41,
+    "timestamp": "2025-09-06T16:08:38",
+    "ip": "236.199.43.141",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 3,
+      "geo_velocity": 3896.15,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 32,
+    "user_id": 44,
+    "timestamp": "2025-09-27T05:56:24",
+    "ip": "211.177.61.71",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 5,
+      "geo_velocity": 10890.42,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 33,
+    "user_id": 15,
+    "timestamp": "2025-10-20T02:57:16",
+    "ip": "114.218.93.161",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 3,
+      "geo_velocity": 6187.91,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 34,
+    "user_id": 19,
+    "timestamp": "2025-10-14T21:21:50",
+    "ip": "29.52.79.125",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 3,
+      "geo_velocity": 7024.69,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 35,
+    "user_id": 48,
+    "timestamp": "2025-09-12T11:17:49",
+    "ip": "121.126.196.52",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 1,
+      "geo_velocity": 1337.13,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 36,
+    "user_id": 25,
+    "timestamp": "2025-09-03T23:08:56",
+    "ip": "27.213.155.86",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 2,
+      "geo_velocity": 8219.21,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 37,
+    "user_id": 18,
+    "timestamp": "2025-09-18T10:44:38",
+    "ip": "185.201.82.64",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 3,
+      "geo_velocity": 342.38,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 38,
+    "user_id": 2,
+    "timestamp": "2025-09-15T14:10:02",
+    "ip": "54.146.62.14",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 1,
+      "geo_velocity": 6784.02,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 39,
+    "user_id": 18,
+    "timestamp": "2025-10-08T03:51:45",
+    "ip": "122.137.20.4",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 2,
+      "geo_velocity": 7344.74,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 40,
+    "user_id": 42,
+    "timestamp": "2025-09-01T20:29:27",
+    "ip": "237.38.93.76",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 1,
+      "geo_velocity": 5339.15,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 41,
+    "user_id": 30,
+    "timestamp": "2025-10-07T09:53:35",
+    "ip": "212.118.18.91",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 3,
+      "geo_velocity": 11857.57,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 42,
+    "user_id": 39,
+    "timestamp": "2025-09-24T23:35:19",
+    "ip": "250.120.68.31",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 5,
+      "geo_velocity": 9861.17,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 43,
+    "user_id": 48,
+    "timestamp": "2025-09-02T12:25:48",
+    "ip": "51.200.103.249",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 3,
+      "geo_velocity": 6078.7,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 44,
+    "user_id": 10,
+    "timestamp": "2025-10-10T20:18:44",
+    "ip": "99.211.253.134",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 3,
+      "geo_velocity": 6300.2,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 45,
+    "user_id": 43,
+    "timestamp": "2025-09-27T03:04:35",
+    "ip": "76.184.119.61",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 2,
+      "geo_velocity": 8407.61,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 46,
+    "user_id": 45,
+    "timestamp": "2025-09-01T18:31:34",
+    "ip": "92.29.227.33",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 4,
+      "geo_velocity": 10507.76,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 47,
+    "user_id": 6,
+    "timestamp": "2025-09-16T07:42:11",
+    "ip": "35.227.238.125",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 5,
+      "geo_velocity": 11693.92,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 48,
+    "user_id": 34,
+    "timestamp": "2025-09-07T10:33:41",
+    "ip": "123.88.56.4",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 2,
+      "geo_velocity": 2278.32,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 49,
+    "user_id": 19,
+    "timestamp": "2025-10-16T12:19:17",
+    "ip": "159.49.216.154",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 5,
+      "geo_velocity": 9110.73,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 50,
+    "user_id": 18,
+    "timestamp": "2025-09-06T07:33:18",
+    "ip": "11.153.165.213",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 4,
+      "geo_velocity": 1033.79,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 51,
+    "user_id": 31,
+    "timestamp": "2025-09-25T07:47:09",
+    "ip": "84.167.109.207",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 4,
+      "geo_velocity": 4941.72,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 52,
+    "user_id": 5,
+    "timestamp": "2025-09-02T17:45:21",
+    "ip": "187.198.42.28",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 2,
+      "geo_velocity": 10268.66,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 53,
+    "user_id": 6,
+    "timestamp": "2025-10-08T10:45:35",
+    "ip": "51.164.134.82",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 1,
+      "geo_velocity": 6837.4,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 54,
+    "user_id": 40,
+    "timestamp": "2025-09-14T18:22:58",
+    "ip": "229.156.242.193",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 2,
+      "geo_velocity": 3870.11,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 55,
+    "user_id": 38,
+    "timestamp": "2025-09-30T18:16:37",
+    "ip": "61.84.110.219",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 4,
+      "geo_velocity": 8908.13,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 56,
+    "user_id": 12,
+    "timestamp": "2025-10-12T15:10:16",
+    "ip": "2.232.192.41",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 2,
+      "geo_velocity": 4494.74,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 57,
+    "user_id": 47,
+    "timestamp": "2025-10-09T00:42:50",
+    "ip": "13.57.142.46",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 5,
+      "geo_velocity": 4089.75,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 58,
+    "user_id": 3,
+    "timestamp": "2025-10-18T23:28:10",
+    "ip": "89.68.214.63",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 1,
+      "geo_velocity": 1489.95,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 59,
+    "user_id": 36,
+    "timestamp": "2025-10-02T03:47:49",
+    "ip": "223.14.109.174",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 4,
+      "geo_velocity": 11501.16,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 60,
+    "user_id": 15,
+    "timestamp": "2025-09-28T14:04:40",
+    "ip": "64.58.130.164",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 5,
+      "geo_velocity": 3555.4,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 61,
+    "user_id": 45,
+    "timestamp": "2025-09-14T18:50:08",
+    "ip": "253.19.9.18",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 4,
+      "geo_velocity": 3986.82,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 62,
+    "user_id": 34,
+    "timestamp": "2025-09-12T09:47:56",
+    "ip": "134.207.170.27",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 1,
+      "geo_velocity": 5016.42,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 63,
+    "user_id": 26,
+    "timestamp": "2025-10-04T08:23:26",
+    "ip": "95.111.152.147",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 2,
+      "geo_velocity": 4995.89,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 64,
+    "user_id": 38,
+    "timestamp": "2025-10-09T10:58:30",
+    "ip": "13.99.49.211",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 3,
+      "geo_velocity": 3572.01,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 65,
+    "user_id": 14,
+    "timestamp": "2025-09-11T03:05:39",
+    "ip": "112.43.246.171",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 3,
+      "geo_velocity": 8381.26,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 66,
+    "user_id": 9,
+    "timestamp": "2025-09-13T05:37:58",
+    "ip": "231.17.177.32",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 1,
+      "geo_velocity": 10514.15,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 67,
+    "user_id": 35,
+    "timestamp": "2025-09-14T04:51:50",
+    "ip": "91.100.252.114",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 2,
+      "geo_velocity": 4919.82,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 68,
+    "user_id": 41,
+    "timestamp": "2025-10-08T21:31:28",
+    "ip": "231.74.192.142",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 3,
+      "geo_velocity": 7906.32,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 69,
+    "user_id": 2,
+    "timestamp": "2025-10-12T00:14:55",
+    "ip": "255.138.12.47",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 5,
+      "geo_velocity": 6678.1,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 70,
+    "user_id": 26,
+    "timestamp": "2025-10-01T02:51:25",
+    "ip": "85.163.252.254",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 2,
+      "geo_velocity": 4127.35,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 71,
+    "user_id": 33,
+    "timestamp": "2025-09-30T06:04:18",
+    "ip": "183.13.116.43",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 1,
+      "geo_velocity": 3317.16,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 72,
+    "user_id": 15,
+    "timestamp": "2025-10-05T15:24:11",
+    "ip": "37.27.133.200",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 5,
+      "geo_velocity": 3490.78,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 73,
+    "user_id": 47,
+    "timestamp": "2025-10-15T18:03:10",
+    "ip": "203.140.66.203",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 1,
+      "geo_velocity": 900.59,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 74,
+    "user_id": 14,
+    "timestamp": "2025-09-08T23:08:20",
+    "ip": "61.109.136.64",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 2,
+      "geo_velocity": 3381.72,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 75,
+    "user_id": 11,
+    "timestamp": "2025-09-23T11:23:48",
+    "ip": "239.247.161.109",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 5,
+      "geo_velocity": 4890.85,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 76,
+    "user_id": 1,
+    "timestamp": "2025-09-22T04:46:15",
+    "ip": "77.231.71.19",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 2,
+      "geo_velocity": 2000.44,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 77,
+    "user_id": 5,
+    "timestamp": "2025-09-06T03:01:47",
+    "ip": "158.62.212.104",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 5,
+      "geo_velocity": 9379.16,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 78,
+    "user_id": 43,
+    "timestamp": "2025-09-07T22:29:54",
+    "ip": "12.35.152.25",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 5,
+      "geo_velocity": 1479.68,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 79,
+    "user_id": 6,
+    "timestamp": "2025-10-20T05:28:00",
+    "ip": "214.39.197.104",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 1,
+      "geo_velocity": 4999.28,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 80,
+    "user_id": 25,
+    "timestamp": "2025-10-11T02:46:33",
+    "ip": "111.189.117.100",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 3,
+      "geo_velocity": 9796.79,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 81,
+    "user_id": 46,
+    "timestamp": "2025-09-06T00:03:59",
+    "ip": "57.160.249.104",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 3,
+      "geo_velocity": 9962.83,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 82,
+    "user_id": 33,
+    "timestamp": "2025-10-01T02:10:39",
+    "ip": "220.41.113.218",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 1,
+      "geo_velocity": 7155.86,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 83,
+    "user_id": 39,
+    "timestamp": "2025-09-13T16:28:12",
+    "ip": "180.226.141.143",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 2,
+      "geo_velocity": 8866.78,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 84,
+    "user_id": 2,
+    "timestamp": "2025-09-10T07:04:46",
+    "ip": "218.84.35.192",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 4,
+      "geo_velocity": 6367.79,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 85,
+    "user_id": 1,
+    "timestamp": "2025-09-26T23:07:58",
+    "ip": "91.227.50.97",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 1,
+      "geo_velocity": 9452.9,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 86,
+    "user_id": 45,
+    "timestamp": "2025-09-26T14:01:52",
+    "ip": "245.71.123.209",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 3,
+      "geo_velocity": 794.02,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 87,
+    "user_id": 47,
+    "timestamp": "2025-10-11T14:05:41",
+    "ip": "171.209.169.166",
+    "device_info": "macOS 14 - Safari 17.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 1,
+      "geo_velocity": 7452.16,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 88,
+    "user_id": 7,
+    "timestamp": "2025-10-15T15:30:09",
+    "ip": "22.93.57.233",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 3,
+      "geo_velocity": 7823.83,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 89,
+    "user_id": 30,
+    "timestamp": "2025-09-26T13:13:58",
+    "ip": "49.213.68.37",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 4,
+      "geo_velocity": 8689.1,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 90,
+    "user_id": 38,
+    "timestamp": "2025-10-06T12:11:31",
+    "ip": "119.42.111.136",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 1,
+      "geo_velocity": 10577.69,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 91,
+    "user_id": 15,
+    "timestamp": "2025-10-20T05:21:33",
+    "ip": "105.163.214.151",
+    "device_info": "Windows 10 - Chrome 118.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 3,
+      "geo_velocity": 7029.19,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 92,
+    "user_id": 23,
+    "timestamp": "2025-09-15T22:23:33",
+    "ip": "208.244.193.245",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 1,
+      "geo_velocity": 291.46,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 93,
+    "user_id": 12,
+    "timestamp": "2025-10-08T04:11:12",
+    "ip": "73.105.11.235",
+    "device_info": "Android 13 - Chrome Mobile 125.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 2,
+      "geo_velocity": 3474.29,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 94,
+    "user_id": 29,
+    "timestamp": "2025-09-29T21:59:34",
+    "ip": "254.70.162.82",
+    "device_info": "Windows 10 - Firefox 117.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 5,
+      "geo_velocity": 11154.21,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 95,
+    "user_id": 33,
+    "timestamp": "2025-09-20T01:51:45",
+    "ip": "218.126.75.8",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 4,
+      "geo_velocity": 938.15,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 96,
+    "user_id": 45,
+    "timestamp": "2025-09-23T01:08:33",
+    "ip": "131.82.100.144",
+    "device_info": "Ubuntu 22.04 - Firefox 118.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 3,
+      "geo_velocity": 9518.52,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 97,
+    "user_id": 30,
+    "timestamp": "2025-09-23T11:04:57",
+    "ip": "248.211.41.159",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 3,
+      "geo_velocity": 4818.35,
+      "suspicious_patterns": [
+        "none"
+      ],
+      "label": "normal"
+    }
+  },
+  {
+    "id": 98,
+    "user_id": 41,
+    "timestamp": "2025-10-11T09:07:45",
+    "ip": "226.5.215.33",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 5,
+      "geo_velocity": 5288.88,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 99,
+    "user_id": 6,
+    "timestamp": "2025-09-04T11:00:08",
+    "ip": "89.212.15.151",
+    "device_info": "iOS 17 - Safari Mobile",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 3,
+      "geo_velocity": 5044.98,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  },
+  {
+    "id": 100,
+    "user_id": 37,
+    "timestamp": "2025-09-09T07:36:39",
+    "ip": "33.100.159.55",
+    "device_info": "Windows 11 - Edge 120.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 5,
+      "geo_velocity": 9282.03,
+      "suspicious_patterns": [
+        "multi-geo login",
+        "rapid IP change"
+      ],
+      "label": "multi-geo_anomaly"
+    }
+  }
+]

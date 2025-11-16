@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 1,
+    "user_id": 259,
+    "timestamp": "2025-10-13T11:28:56Z",
+    "ip": "73.220.194.122",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 2,
+    "user_id": 157,
+    "timestamp": "2025-10-18T12:37:48Z",
+    "ip": "229.216.149.146",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 3,
+    "user_id": 881,
+    "timestamp": "2025-10-13T03:43:27Z",
+    "ip": "254.103.74.15",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 4,
+    "user_id": 967,
+    "timestamp": "2025-10-19T07:04:16Z",
+    "ip": "220.58.63.212",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 5,
+    "user_id": 297,
+    "timestamp": "2025-10-15T20:20:09Z",
+    "ip": "157.188.90.196",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 6,
+    "user_id": 275,
+    "timestamp": "2025-10-20T18:16:14Z",
+    "ip": "245.144.2.183",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 7,
+    "user_id": 458,
+    "timestamp": "2025-10-13T09:07:14Z",
+    "ip": "21.68.150.174",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 8,
+    "user_id": 35,
+    "timestamp": "2025-10-17T23:51:27Z",
+    "ip": "108.28.29.201",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 9,
+    "user_id": 52,
+    "timestamp": "2025-10-10T04:53:58Z",
+    "ip": "44.203.191.249",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 10,
+    "user_id": 715,
+    "timestamp": "2025-10-07T21:45:27Z",
+    "ip": "184.115.197.65",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 11,
+    "user_id": 823,
+    "timestamp": "2025-10-09T07:12:06Z",
+    "ip": "87.21.89.146",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 12,
+    "user_id": 281,
+    "timestamp": "2025-10-17T06:09:41Z",
+    "ip": "23.187.35.64",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 13,
+    "user_id": 735,
+    "timestamp": "2025-10-06T05:55:07Z",
+    "ip": "32.108.106.226",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 14,
+    "user_id": 883,
+    "timestamp": "2025-10-07T02:28:22Z",
+    "ip": "152.167.219.5",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 15,
+    "user_id": 667,
+    "timestamp": "2025-10-16T17:56:42Z",
+    "ip": "113.145.252.90",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 16,
+    "user_id": 578,
+    "timestamp": "2025-10-19T11:21:45Z",
+    "ip": "25.219.230.2",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 17,
+    "user_id": 450,
+    "timestamp": "2025-10-19T06:17:11Z",
+    "ip": "205.243.102.79",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 18,
+    "user_id": 991,
+    "timestamp": "2025-10-19T23:39:04Z",
+    "ip": "116.161.86.165",
+    "device_info": "Chrome on MacOS",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 19,
+    "user_id": 109,
+    "timestamp": "2025-10-14T07:47:34Z",
+    "ip": "131.43.172.4",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 20,
+    "user_id": 3,
+    "timestamp": "2025-10-07T14:07:43Z",
+    "ip": "152.46.236.14",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 21,
+    "user_id": 815,
+    "timestamp": "2025-10-17T07:02:05Z",
+    "ip": "86.68.33.98",
+    "device_info": "Chrome on MacOS",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 22,
+    "user_id": 235,
+    "timestamp": "2025-10-11T16:01:29Z",
+    "ip": "98.217.181.193",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 23,
+    "user_id": 828,
+    "timestamp": "2025-10-12T07:17:04Z",
+    "ip": "196.234.130.97",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 24,
+    "user_id": 917,
+    "timestamp": "2025-10-06T02:13:43Z",
+    "ip": "135.42.223.209",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 25,
+    "user_id": 36,
+    "timestamp": "2025-10-18T23:38:46Z",
+    "ip": "225.72.110.11",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 26,
+    "user_id": 883,
+    "timestamp": "2025-10-08T02:17:22Z",
+    "ip": "48.112.83.171",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 27,
+    "user_id": 613,
+    "timestamp": "2025-10-11T03:05:59Z",
+    "ip": "158.126.228.147",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 28,
+    "user_id": 609,
+    "timestamp": "2025-10-09T14:37:00Z",
+    "ip": "14.251.111.56",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 29,
+    "user_id": 226,
+    "timestamp": "2025-10-19T08:51:55Z",
+    "ip": "216.71.99.233",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 30,
+    "user_id": 832,
+    "timestamp": "2025-10-18T13:18:43Z",
+    "ip": "87.49.201.160",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 20,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 31,
+    "user_id": 474,
+    "timestamp": "2025-10-15T23:53:41Z",
+    "ip": "117.111.233.75",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 32,
+    "user_id": 522,
+    "timestamp": "2025-10-15T07:53:07Z",
+    "ip": "3.198.163.212",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 33,
+    "user_id": 277,
+    "timestamp": "2025-10-13T13:22:39Z",
+    "ip": "100.25.202.148",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 34,
+    "user_id": 366,
+    "timestamp": "2025-10-19T10:58:12Z",
+    "ip": "228.71.119.169",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 35,
+    "user_id": 714,
+    "timestamp": "2025-10-05T23:23:55Z",
+    "ip": "254.146.221.254",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 36,
+    "user_id": 38,
+    "timestamp": "2025-10-09T06:06:09Z",
+    "ip": "225.156.19.48",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 37,
+    "user_id": 617,
+    "timestamp": "2025-10-18T16:54:55Z",
+    "ip": "204.71.73.4",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 38,
+    "user_id": 196,
+    "timestamp": "2025-10-14T11:26:52Z",
+    "ip": "243.108.77.153",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_ip_5min": 20,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 39,
+    "user_id": 832,
+    "timestamp": "2025-10-12T23:03:08Z",
+    "ip": "13.85.51.76",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 40,
+    "user_id": 817,
+    "timestamp": "2025-10-18T10:19:49Z",
+    "ip": "109.60.36.19",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 41,
+    "user_id": 847,
+    "timestamp": "2025-10-08T19:03:31Z",
+    "ip": "104.112.5.192",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 42,
+    "user_id": 752,
+    "timestamp": "2025-10-07T07:53:52Z",
+    "ip": "237.250.239.23",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 43,
+    "user_id": 748,
+    "timestamp": "2025-10-19T18:54:56Z",
+    "ip": "65.143.229.76",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 44,
+    "user_id": 903,
+    "timestamp": "2025-10-10T05:46:29Z",
+    "ip": "143.50.139.240",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 45,
+    "user_id": 250,
+    "timestamp": "2025-10-20T04:50:07Z",
+    "ip": "140.75.235.118",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 46,
+    "user_id": 164,
+    "timestamp": "2025-10-14T06:34:01Z",
+    "ip": "138.97.44.153",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 20,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 47,
+    "user_id": 489,
+    "timestamp": "2025-10-10T11:02:50Z",
+    "ip": "14.181.254.150",
+    "device_info": "Chrome on MacOS",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 48,
+    "user_id": 122,
+    "timestamp": "2025-10-09T23:36:03Z",
+    "ip": "118.19.97.141",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 49,
+    "user_id": 379,
+    "timestamp": "2025-10-07T17:08:31Z",
+    "ip": "1.106.223.150",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 50,
+    "user_id": 409,
+    "timestamp": "2025-10-08T14:46:30Z",
+    "ip": "119.223.176.14",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 51,
+    "user_id": 165,
+    "timestamp": "2025-10-17T14:58:54Z",
+    "ip": "236.24.84.186",
+    "device_info": "Chrome on MacOS",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 52,
+    "user_id": 761,
+    "timestamp": "2025-10-16T03:36:38Z",
+    "ip": "67.185.141.64",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 53,
+    "user_id": 612,
+    "timestamp": "2025-10-18T20:04:05Z",
+    "ip": "123.244.20.12",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 54,
+    "user_id": 10,
+    "timestamp": "2025-10-08T06:56:16Z",
+    "ip": "102.130.193.218",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 55,
+    "user_id": 425,
+    "timestamp": "2025-10-17T01:55:59Z",
+    "ip": "96.89.52.164",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 20,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 56,
+    "user_id": 268,
+    "timestamp": "2025-10-20T01:44:53Z",
+    "ip": "32.89.242.97",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 57,
+    "user_id": 878,
+    "timestamp": "2025-10-14T00:45:50Z",
+    "ip": "65.65.3.189",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 58,
+    "user_id": 92,
+    "timestamp": "2025-10-11T18:32:25Z",
+    "ip": "237.86.231.226",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 59,
+    "user_id": 233,
+    "timestamp": "2025-10-13T18:55:21Z",
+    "ip": "41.229.174.166",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 60,
+    "user_id": 76,
+    "timestamp": "2025-10-11T01:25:20Z",
+    "ip": "122.140.248.239",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 61,
+    "user_id": 313,
+    "timestamp": "2025-10-13T10:31:59Z",
+    "ip": "123.181.97.132",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 62,
+    "user_id": 218,
+    "timestamp": "2025-10-19T15:58:53Z",
+    "ip": "68.130.42.84",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 63,
+    "user_id": 356,
+    "timestamp": "2025-10-16T07:03:59Z",
+    "ip": "92.116.194.133",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 64,
+    "user_id": 673,
+    "timestamp": "2025-10-20T21:35:47Z",
+    "ip": "162.111.179.11",
+    "device_info": "Chrome on MacOS",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 65,
+    "user_id": 851,
+    "timestamp": "2025-10-15T17:24:06Z",
+    "ip": "118.131.229.59",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 66,
+    "user_id": 485,
+    "timestamp": "2025-10-14T15:52:26Z",
+    "ip": "119.21.184.235",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 67,
+    "user_id": 275,
+    "timestamp": "2025-10-19T13:52:41Z",
+    "ip": "186.129.19.193",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 68,
+    "user_id": 879,
+    "timestamp": "2025-10-12T08:25:31Z",
+    "ip": "240.209.104.89",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 69,
+    "user_id": 762,
+    "timestamp": "2025-10-05T21:08:34Z",
+    "ip": "74.212.28.173",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 70,
+    "user_id": 837,
+    "timestamp": "2025-10-12T16:45:38Z",
+    "ip": "246.44.140.86",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 71,
+    "user_id": 560,
+    "timestamp": "2025-10-18T09:23:08Z",
+    "ip": "110.226.28.242",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 72,
+    "user_id": 658,
+    "timestamp": "2025-10-14T18:21:31Z",
+    "ip": "64.91.248.7",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 73,
+    "user_id": 198,
+    "timestamp": "2025-10-10T15:58:37Z",
+    "ip": "159.185.107.225",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 74,
+    "user_id": 79,
+    "timestamp": "2025-10-07T00:15:15Z",
+    "ip": "109.5.231.241",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 75,
+    "user_id": 483,
+    "timestamp": "2025-10-16T07:00:51Z",
+    "ip": "66.75.18.34",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 10,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 76,
+    "user_id": 621,
+    "timestamp": "2025-10-19T12:45:04Z",
+    "ip": "15.65.130.24",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 20,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 77,
+    "user_id": 382,
+    "timestamp": "2025-10-08T16:05:05Z",
+    "ip": "19.12.232.214",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 78,
+    "user_id": 568,
+    "timestamp": "2025-10-18T10:55:07Z",
+    "ip": "179.160.143.56",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 79,
+    "user_id": 87,
+    "timestamp": "2025-10-16T23:35:44Z",
+    "ip": "170.65.176.184",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 20,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 80,
+    "user_id": 470,
+    "timestamp": "2025-10-13T17:07:58Z",
+    "ip": "102.144.88.102",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 81,
+    "user_id": 612,
+    "timestamp": "2025-10-07T00:09:14Z",
+    "ip": "117.81.126.167",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 82,
+    "user_id": 462,
+    "timestamp": "2025-10-09T22:30:26Z",
+    "ip": "198.116.213.45",
+    "device_info": "Chrome on MacOS",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 20,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 83,
+    "user_id": 904,
+    "timestamp": "2025-10-12T04:50:11Z",
+    "ip": "63.171.248.195",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 84,
+    "user_id": 391,
+    "timestamp": "2025-10-08T05:12:19Z",
+    "ip": "55.27.30.146",
+    "device_info": "Chrome on MacOS",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 85,
+    "user_id": 325,
+    "timestamp": "2025-10-14T19:13:31Z",
+    "ip": "181.212.80.205",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 86,
+    "user_id": 582,
+    "timestamp": "2025-10-07T18:22:05Z",
+    "ip": "184.98.55.110",
+    "device_info": "Edge on Windows 11",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 87,
+    "user_id": 208,
+    "timestamp": "2025-10-13T21:48:31Z",
+    "ip": "218.64.65.8",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 120,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 88,
+    "user_id": 270,
+    "timestamp": "2025-10-12T00:52:54Z",
+    "ip": "45.180.34.186",
+    "device_info": "Mobile Safari on iPad",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 2,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 89,
+    "user_id": 674,
+    "timestamp": "2025-10-08T12:19:20Z",
+    "ip": "15.108.5.108",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 90,
+    "user_id": 968,
+    "timestamp": "2025-10-17T13:26:23Z",
+    "ip": "20.87.155.124",
+    "device_info": "Chrome on Windows 10",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 20,
+      "distinct_users_targeted": 100,
+      "avg_time_between_attempts_sec": 5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 91,
+    "user_id": 327,
+    "timestamp": "2025-10-11T01:10:33Z",
+    "ip": "48.207.140.144",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 3,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 92,
+    "user_id": 500,
+    "timestamp": "2025-10-11T08:12:16Z",
+    "ip": "7.114.113.213",
+    "device_info": "Android app v1.2.3",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 93,
+    "user_id": 77,
+    "timestamp": "2025-10-12T12:31:33Z",
+    "ip": "95.172.174.48",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 20,
+      "avg_time_between_attempts_sec": 1,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 94,
+    "user_id": 774,
+    "timestamp": "2025-10-15T05:30:58Z",
+    "ip": "133.100.187.62",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 95,
+    "user_id": 782,
+    "timestamp": "2025-10-20T03:16:47Z",
+    "ip": "45.132.47.143",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 50,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 96,
+    "user_id": 550,
+    "timestamp": "2025-10-15T21:32:33Z",
+    "ip": "1.76.4.134",
+    "device_info": "Opera on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 97,
+    "user_id": 3,
+    "timestamp": "2025-10-14T23:33:31Z",
+    "ip": "210.213.47.179",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 80,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 98,
+    "user_id": 171,
+    "timestamp": "2025-10-15T00:43:28Z",
+    "ip": "172.231.121.206",
+    "device_info": "Safari on iPhone",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 5,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 99,
+    "user_id": 1000,
+    "timestamp": "2025-10-20T13:05:08Z",
+    "ip": "237.197.183.228",
+    "device_info": "Firefox on Linux",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 30,
+      "distinct_users_targeted": 10,
+      "avg_time_between_attempts_sec": 10,
+      "password_spray_flag": 0,
+      "credential_stuffing_flag": 0,
+      "distinct_ips": 1
+    }
+  },
+  {
+    "id": 100,
+    "user_id": 692,
+    "timestamp": "2025-10-20T12:59:28Z",
+    "ip": "137.223.164.76",
+    "device_info": "Chrome on MacOS",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_ip_5min": 15,
+      "distinct_users_targeted": 50,
+      "avg_time_between_attempts_sec": 0.5,
+      "password_spray_flag": 1,
+      "credential_stuffing_flag": 1,
+      "distinct_ips": 1
+    }
+  }
+]

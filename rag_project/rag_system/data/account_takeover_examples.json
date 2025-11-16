@@ -1,0 +1,2482 @@
+[
+  {
+    "id": 1,
+    "user_id": 14,
+    "timestamp": "2025-10-18 01:57:23",
+    "ip": "239.50.70.145",
+    "device_info": "curl/7.68.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2232.56,
+      "avg_time_between_attempts_sec": 135.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 5,
+      "suspicious_headers": {
+        "x_forwarded_for": "239.50.70.145"
+      },
+      "related_ips_sample": [
+        "239.50.70.145",
+        "112.42.96.32",
+        "161.45.157.142"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 2,
+    "user_id": 27,
+    "timestamp": "2025-10-14 17:49:20",
+    "ip": "87.7.248.131",
+    "device_info": "curl/7.68.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2936.53,
+      "avg_time_between_attempts_sec": 107.67,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "87.7.248.131",
+        "251.177.191.107",
+        "1.2.241.170"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 3,
+    "user_id": 23,
+    "timestamp": "2025-10-18 11:03:34",
+    "ip": "60.31.224.128",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "60.31.224.128"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 4,
+    "user_id": 5,
+    "timestamp": "2025-10-16 10:46:48",
+    "ip": "252.222.214.3",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2205.21,
+      "avg_time_between_attempts_sec": 159.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "252.222.214.3",
+        "39.248.59.90",
+        "139.88.41.99"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 5,
+    "user_id": 25,
+    "timestamp": "2025-10-17 01:41:48",
+    "ip": "132.195.32.124",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4293.17,
+      "avg_time_between_attempts_sec": 85.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "132.195.32.124"
+      },
+      "related_ips_sample": [
+        "132.195.32.124",
+        "160.16.4.161",
+        "126.84.198.157"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 6,
+    "user_id": 22,
+    "timestamp": "2025-10-16 16:48:50",
+    "ip": "240.205.218.25",
+    "device_info": "curl/7.68.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3765.69,
+      "avg_time_between_attempts_sec": 56.0,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "240.205.218.25",
+        "68.130.193.104",
+        "17.203.193.245"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 7,
+    "user_id": 17,
+    "timestamp": "2025-10-18 09:37:26",
+    "ip": "18.165.118.191",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 2,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "18.165.118.191"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 8,
+    "user_id": 5,
+    "timestamp": "2025-10-15 04:12:55",
+    "ip": "199.110.12.94",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2190.67,
+      "avg_time_between_attempts_sec": 172.0,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "199.110.12.94",
+        "205.133.138.147",
+        "28.162.195.18"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 9,
+    "user_id": 9,
+    "timestamp": "2025-10-20 10:25:28",
+    "ip": "13.68.115.8",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2887.94,
+      "avg_time_between_attempts_sec": 129.67,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "13.68.115.8",
+        "57.89.35.236",
+        "1.174.249.161"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 10,
+    "user_id": 20,
+    "timestamp": "2025-10-14 22:45:13",
+    "ip": "49.42.21.37",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2909.09,
+      "avg_time_between_attempts_sec": 120.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "49.42.21.37",
+        "210.79.60.86",
+        "109.52.4.39"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 11,
+    "user_id": 24,
+    "timestamp": "2025-10-15 13:42:09",
+    "ip": "136.54.141.130",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "136.54.141.130"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 12,
+    "user_id": 26,
+    "timestamp": "2025-10-20 00:13:13",
+    "ip": "113.7.96.170",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2878.56,
+      "avg_time_between_attempts_sec": 134.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "113.7.96.170"
+      },
+      "related_ips_sample": [
+        "113.7.96.170",
+        "8.223.100.91",
+        "173.209.139.169"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 13,
+    "user_id": 4,
+    "timestamp": "2025-10-16 13:41:08",
+    "ip": "241.14.80.214",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "241.14.80.214"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 14,
+    "user_id": 24,
+    "timestamp": "2025-10-19 02:35:12",
+    "ip": "140.62.176.254",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3461.54,
+      "avg_time_between_attempts_sec": 140.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 1,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "140.62.176.254",
+        "121.237.47.231",
+        "54.142.148.239"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 15,
+    "user_id": 24,
+    "timestamp": "2025-10-19 08:30:45",
+    "ip": "64.167.116.222",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3607.21,
+      "avg_time_between_attempts_sec": 98.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 4,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "64.167.116.222",
+        "215.234.130.28",
+        "133.8.132.234"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 16,
+    "user_id": 13,
+    "timestamp": "2025-10-16 14:14:10",
+    "ip": "2.133.188.185",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4236.33,
+      "avg_time_between_attempts_sec": 95.8,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "2.133.188.185",
+        "71.7.207.241",
+        "123.231.86.178"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 17,
+    "user_id": 5,
+    "timestamp": "2025-10-18 04:14:53",
+    "ip": "74.8.54.110",
+    "device_info": "curl/7.68.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3532.88,
+      "avg_time_between_attempts_sec": 119.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "74.8.54.110"
+      },
+      "related_ips_sample": [
+        "74.8.54.110",
+        "101.236.175.149",
+        "103.203.166.164"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 18,
+    "user_id": 4,
+    "timestamp": "2025-10-15 21:42:03",
+    "ip": "170.81.228.106",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2205.77,
+      "avg_time_between_attempts_sec": 158.5,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 1,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "170.81.228.106",
+        "188.101.123.24",
+        "252.100.177.165"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 19,
+    "user_id": 9,
+    "timestamp": "2025-10-19 03:46:10",
+    "ip": "80.83.161.154",
+    "device_info": "curl/7.68.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1509.04,
+      "avg_time_between_attempts_sec": 217.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "80.83.161.154",
+        "81.111.11.91"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 20,
+    "user_id": 23,
+    "timestamp": "2025-10-18 01:57:59",
+    "ip": "34.128.116.178",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3667.86,
+      "avg_time_between_attempts_sec": 81.5,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "34.128.116.178"
+      },
+      "related_ips_sample": [
+        "34.128.116.178",
+        "3.120.194.95",
+        "60.105.251.121"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 21,
+    "user_id": 13,
+    "timestamp": "2025-10-15 05:39:25",
+    "ip": "87.67.151.64",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1488.76,
+      "avg_time_between_attempts_sec": 269.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "87.67.151.64",
+        "168.138.158.71"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 22,
+    "user_id": 8,
+    "timestamp": "2025-10-16 12:50:21",
+    "ip": "75.173.16.129",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4355.94,
+      "avg_time_between_attempts_sec": 73.4,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "75.173.16.129",
+        "33.37.136.51",
+        "180.69.55.219"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 23,
+    "user_id": 16,
+    "timestamp": "2025-10-18 18:47:32",
+    "ip": "20.190.40.6",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4168.88,
+      "avg_time_between_attempts_sec": 109.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "20.190.40.6",
+        "19.207.218.91",
+        "34.239.93.88"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 24,
+    "user_id": 30,
+    "timestamp": "2025-10-17 23:23:07",
+    "ip": "1.133.145.95",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4306.01,
+      "avg_time_between_attempts_sec": 82.6,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 5,
+      "suspicious_headers": {
+        "x_forwarded_for": "1.133.145.95"
+      },
+      "related_ips_sample": [
+        "1.133.145.95",
+        "183.103.142.52",
+        "97.26.231.236"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 25,
+    "user_id": 4,
+    "timestamp": "2025-10-17 20:04:47",
+    "ip": "206.31.172.81",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1577.65,
+      "avg_time_between_attempts_sec": 51.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "206.31.172.81",
+        "170.102.143.247"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 26,
+    "user_id": 14,
+    "timestamp": "2025-10-20 08:21:02",
+    "ip": "122.122.57.151",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "122.122.57.151"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 27,
+    "user_id": 29,
+    "timestamp": "2025-10-21 04:31:33",
+    "ip": "46.34.45.165",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1549.22,
+      "avg_time_between_attempts_sec": 118.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "46.34.45.165",
+        "2.212.226.27"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 28,
+    "user_id": 1,
+    "timestamp": "2025-10-17 04:26:10",
+    "ip": "163.24.7.4",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2213.68,
+      "avg_time_between_attempts_sec": 151.5,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "163.24.7.4",
+        "166.106.26.80",
+        "114.250.18.19"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 29,
+    "user_id": 13,
+    "timestamp": "2025-10-19 10:37:51",
+    "ip": "111.176.215.92",
+    "device_info": "curl/7.68.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1419.42,
+      "avg_time_between_attempts_sec": 458.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "111.176.215.92",
+        "181.240.58.100"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 30,
+    "user_id": 3,
+    "timestamp": "2025-10-14 18:38:12",
+    "ip": "254.104.168.83",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "254.104.168.83"
+      },
+      "related_ips_sample": [
+        "254.104.168.83"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 31,
+    "user_id": 4,
+    "timestamp": "2025-10-17 06:59:36",
+    "ip": "49.187.105.169",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "49.187.105.169"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 32,
+    "user_id": 14,
+    "timestamp": "2025-10-15 15:14:05",
+    "ip": "114.3.79.197",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2344.0,
+      "avg_time_between_attempts_sec": 43.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "114.3.79.197",
+        "13.119.170.140",
+        "210.168.27.208"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 33,
+    "user_id": 15,
+    "timestamp": "2025-10-18 07:39:38",
+    "ip": "84.214.88.106",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2813.87,
+      "avg_time_between_attempts_sec": 164.67,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "84.214.88.106",
+        "144.140.126.68",
+        "163.83.109.21"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 34,
+    "user_id": 26,
+    "timestamp": "2025-10-20 21:48:32",
+    "ip": "178.47.87.20",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2170.85,
+      "avg_time_between_attempts_sec": 190.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "178.47.87.20",
+        "27.118.220.112",
+        "118.203.246.116"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 35,
+    "user_id": 17,
+    "timestamp": "2025-10-14 18:06:32",
+    "ip": "91.187.175.235",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4398.07,
+      "avg_time_between_attempts_sec": 65.8,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "91.187.175.235",
+        "113.217.195.6",
+        "248.206.171.63"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 36,
+    "user_id": 1,
+    "timestamp": "2025-10-17 06:28:53",
+    "ip": "189.46.194.11",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2930.55,
+      "avg_time_between_attempts_sec": 110.33,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "189.46.194.11",
+        "242.241.182.215",
+        "247.239.120.36"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 37,
+    "user_id": 19,
+    "timestamp": "2025-10-18 11:42:41",
+    "ip": "131.90.54.99",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4163.86,
+      "avg_time_between_attempts_sec": 110.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "131.90.54.99",
+        "23.110.51.114",
+        "54.30.41.165"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 38,
+    "user_id": 22,
+    "timestamp": "2025-10-18 21:29:46",
+    "ip": "182.197.63.6",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3525.95,
+      "avg_time_between_attempts_sec": 121.0,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "182.197.63.6",
+        "17.182.153.45",
+        "197.57.93.187"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 39,
+    "user_id": 20,
+    "timestamp": "2025-10-16 02:52:11",
+    "ip": "108.150.227.254",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1539.28,
+      "avg_time_between_attempts_sec": 142.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 1,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "108.150.227.254",
+        "223.242.181.50"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 40,
+    "user_id": 25,
+    "timestamp": "2025-10-19 15:48:11",
+    "ip": "228.253.127.187",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4337.35,
+      "avg_time_between_attempts_sec": 76.8,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 5,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "228.253.127.187",
+        "64.111.22.236",
+        "64.106.220.247"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 41,
+    "user_id": 5,
+    "timestamp": "2025-10-18 04:39:55",
+    "ip": "235.131.225.179",
+    "device_info": "curl/7.68.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2807.7,
+      "avg_time_between_attempts_sec": 167.67,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "235.131.225.179"
+      },
+      "related_ips_sample": [
+        "235.131.225.179",
+        "24.116.203.152",
+        "22.248.92.98"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 42,
+    "user_id": 2,
+    "timestamp": "2025-10-17 11:23:50",
+    "ip": "212.178.180.219",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "logout",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3633.61,
+      "avg_time_between_attempts_sec": 90.75,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "212.178.180.219",
+        "156.188.55.168",
+        "162.154.29.168"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 43,
+    "user_id": 9,
+    "timestamp": "2025-10-14 12:48:52",
+    "ip": "109.240.185.132",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2953.09,
+      "avg_time_between_attempts_sec": 100.33,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "109.240.185.132",
+        "194.124.4.132",
+        "30.245.19.135"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 44,
+    "user_id": 23,
+    "timestamp": "2025-10-20 18:57:57",
+    "ip": "5.250.222.214",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2196.8,
+      "avg_time_between_attempts_sec": 166.5,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 5,
+      "suspicious_headers": {
+        "x_forwarded_for": "5.250.222.214"
+      },
+      "related_ips_sample": [
+        "5.250.222.214",
+        "51.105.137.169",
+        "24.81.141.69"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 45,
+    "user_id": 28,
+    "timestamp": "2025-10-15 12:14:35",
+    "ip": "189.62.134.70",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 2,
+      "suspicious_headers": {
+        "x_forwarded_for": "189.62.134.70"
+      },
+      "related_ips_sample": [
+        "189.62.134.70"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 46,
+    "user_id": 30,
+    "timestamp": "2025-10-15 20:27:13",
+    "ip": "191.217.22.60",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4236.33,
+      "avg_time_between_attempts_sec": 95.8,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "191.217.22.60",
+        "194.39.1.244",
+        "176.194.64.51"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 47,
+    "user_id": 19,
+    "timestamp": "2025-10-17 10:10:35",
+    "ip": "221.94.206.133",
+    "device_info": "curl/7.68.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 3014.13,
+      "avg_time_between_attempts_sec": 74.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "221.94.206.133",
+        "66.195.186.154",
+        "236.101.107.143"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 48,
+    "user_id": 21,
+    "timestamp": "2025-10-15 12:21:14",
+    "ip": "67.66.202.105",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 3022.83,
+      "avg_time_between_attempts_sec": 70.33,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "67.66.202.105",
+        "6.131.137.136",
+        "83.99.74.41"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 49,
+    "user_id": 2,
+    "timestamp": "2025-10-18 19:36:34",
+    "ip": "20.133.176.7",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4250.92,
+      "avg_time_between_attempts_sec": 93.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "20.133.176.7",
+        "128.173.179.224",
+        "250.125.22.41"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 50,
+    "user_id": 3,
+    "timestamp": "2025-10-20 16:50:49",
+    "ip": "88.192.225.182",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1570.77,
+      "avg_time_between_attempts_sec": 67.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 3,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "88.192.225.182",
+        "154.245.83.209"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 51,
+    "user_id": 16,
+    "timestamp": "2025-10-15 12:07:39",
+    "ip": "103.140.99.230",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4207.45,
+      "avg_time_between_attempts_sec": 101.4,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "103.140.99.230",
+        "88.104.183.100",
+        "228.15.1.179"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 52,
+    "user_id": 18,
+    "timestamp": "2025-10-17 21:26:19",
+    "ip": "222.162.105.170",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "222.162.105.170"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 53,
+    "user_id": 30,
+    "timestamp": "2025-10-19 05:32:27",
+    "ip": "17.66.167.34",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4192.14,
+      "avg_time_between_attempts_sec": 104.4,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 5,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "17.66.167.34",
+        "250.89.37.13",
+        "144.30.230.80"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 54,
+    "user_id": 7,
+    "timestamp": "2025-10-20 14:52:52",
+    "ip": "110.253.12.6",
+    "device_info": "curl/7.68.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 2,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "110.253.12.6"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 55,
+    "user_id": 3,
+    "timestamp": "2025-10-16 23:54:13",
+    "ip": "45.65.11.133",
+    "device_info": "curl/7.68.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1524.62,
+      "avg_time_between_attempts_sec": 178.0,
+      "unusual_device": 1,
+      "recent_password_change": 1,
+      "email_change": 1,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "45.65.11.133"
+      },
+      "related_ips_sample": [
+        "45.65.11.133",
+        "235.240.201.182"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 56,
+    "user_id": 3,
+    "timestamp": "2025-10-20 19:13:50",
+    "ip": "73.114.131.4",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3700.85,
+      "avg_time_between_attempts_sec": 72.75,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "73.114.131.4",
+        "190.42.235.124",
+        "13.21.147.153"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 57,
+    "user_id": 13,
+    "timestamp": "2025-10-19 12:30:18",
+    "ip": "194.44.241.6",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4178.96,
+      "avg_time_between_attempts_sec": 107.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 4,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "194.44.241.6",
+        "233.200.145.15",
+        "238.152.144.127"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 58,
+    "user_id": 17,
+    "timestamp": "2025-10-17 15:42:26",
+    "ip": "170.94.22.38",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1432.12,
+      "avg_time_between_attempts_sec": 422.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "170.94.22.38",
+        "186.101.222.36"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 59,
+    "user_id": 5,
+    "timestamp": "2025-10-16 10:22:52",
+    "ip": "221.72.90.14",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4292.1,
+      "avg_time_between_attempts_sec": 85.2,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "221.72.90.14",
+        "38.194.245.174",
+        "58.72.144.179"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 60,
+    "user_id": 24,
+    "timestamp": "2025-10-15 20:37:21",
+    "ip": "147.145.164.99",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4157.84,
+      "avg_time_between_attempts_sec": 111.2,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 1,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "147.145.164.99",
+        "134.215.86.237",
+        "20.244.3.78"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 61,
+    "user_id": 20,
+    "timestamp": "2025-10-16 06:30:45",
+    "ip": "171.60.162.198",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1442.89,
+      "avg_time_between_attempts_sec": 392.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "171.60.162.198",
+        "210.58.208.144"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 62,
+    "user_id": 19,
+    "timestamp": "2025-10-18 19:18:47",
+    "ip": "50.149.56.205",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1523.0,
+      "avg_time_between_attempts_sec": 182.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "50.149.56.205",
+        "197.179.114.118"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 63,
+    "user_id": 26,
+    "timestamp": "2025-10-20 09:44:54",
+    "ip": "116.27.39.86",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1504.7,
+      "avg_time_between_attempts_sec": 228.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "116.27.39.86"
+      },
+      "related_ips_sample": [
+        "116.27.39.86",
+        "43.213.59.217"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 64,
+    "user_id": 10,
+    "timestamp": "2025-10-18 01:13:12",
+    "ip": "111.224.130.107",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4327.57,
+      "avg_time_between_attempts_sec": 78.6,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "111.224.130.107",
+        "52.117.134.218",
+        "65.125.241.209"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 65,
+    "user_id": 18,
+    "timestamp": "2025-10-16 05:38:50",
+    "ip": "84.36.195.1",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2266.53,
+      "avg_time_between_attempts_sec": 106.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 5,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "84.36.195.1",
+        "1.95.139.215",
+        "218.57.183.111"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 66,
+    "user_id": 15,
+    "timestamp": "2025-10-16 07:44:37",
+    "ip": "105.158.82.128",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1560.13,
+      "avg_time_between_attempts_sec": 92.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "105.158.82.128",
+        "68.18.67.129"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 67,
+    "user_id": 18,
+    "timestamp": "2025-10-20 06:52:31",
+    "ip": "94.204.135.17",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "94.204.135.17"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 68,
+    "user_id": 27,
+    "timestamp": "2025-10-19 11:10:05",
+    "ip": "73.150.197.30",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "73.150.197.30"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 69,
+    "user_id": 3,
+    "timestamp": "2025-10-16 20:31:53",
+    "ip": "23.196.79.67",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2102.7,
+      "avg_time_between_attempts_sec": 254.5,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 2,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "23.196.79.67",
+        "236.232.191.124",
+        "82.4.182.121"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 70,
+    "user_id": 13,
+    "timestamp": "2025-10-17 18:30:12",
+    "ip": "64.221.180.123",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3555.56,
+      "avg_time_between_attempts_sec": 112.5,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "64.221.180.123",
+        "211.223.129.231",
+        "71.19.132.172"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 71,
+    "user_id": 15,
+    "timestamp": "2025-10-21 07:03:02",
+    "ip": "239.10.101.38",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3532.88,
+      "avg_time_between_attempts_sec": 119.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "239.10.101.38",
+        "27.198.151.222",
+        "80.54.134.29"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 72,
+    "user_id": 29,
+    "timestamp": "2025-10-15 05:07:33",
+    "ip": "58.149.220.145",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2840.94,
+      "avg_time_between_attempts_sec": 151.67,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "58.149.220.145",
+        "202.201.148.205",
+        "52.195.123.249"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 73,
+    "user_id": 11,
+    "timestamp": "2025-10-17 22:14:51",
+    "ip": "40.10.145.171",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1427.16,
+      "avg_time_between_attempts_sec": 436.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "40.10.145.171",
+        "221.70.111.184"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 74,
+    "user_id": 19,
+    "timestamp": "2025-10-15 05:06:07",
+    "ip": "139.127.8.221",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4279.35,
+      "avg_time_between_attempts_sec": 87.6,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "139.127.8.221",
+        "134.250.82.58",
+        "11.68.6.183"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 75,
+    "user_id": 10,
+    "timestamp": "2025-10-18 11:32:14",
+    "ip": "50.127.85.243",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4162.85,
+      "avg_time_between_attempts_sec": 110.2,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "50.127.85.243",
+        "215.246.147.131",
+        "216.201.147.212"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 76,
+    "user_id": 26,
+    "timestamp": "2025-10-19 03:12:24",
+    "ip": "87.243.230.155",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4261.41,
+      "avg_time_between_attempts_sec": 91.0,
+      "unusual_device": 1,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "87.243.230.155",
+        "13.215.6.156",
+        "206.141.118.211"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 77,
+    "user_id": 23,
+    "timestamp": "2025-10-20 15:50:05",
+    "ip": "173.218.61.196",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "173.218.61.196"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 78,
+    "user_id": 13,
+    "timestamp": "2025-10-19 06:59:24",
+    "ip": "210.200.190.35",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2983.68,
+      "avg_time_between_attempts_sec": 87.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "210.200.190.35",
+        "81.197.24.54",
+        "164.79.109.177"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 79,
+    "user_id": 4,
+    "timestamp": "2025-10-15 17:09:21",
+    "ip": "205.117.26.98",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "205.117.26.98"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 80,
+    "user_id": 8,
+    "timestamp": "2025-10-16 06:32:41",
+    "ip": "84.122.229.219",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4176.94,
+      "avg_time_between_attempts_sec": 107.4,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "84.122.229.219"
+      },
+      "related_ips_sample": [
+        "84.122.229.219",
+        "176.161.79.49",
+        "145.11.17.174"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 81,
+    "user_id": 22,
+    "timestamp": "2025-10-14 16:47:52",
+    "ip": "77.103.167.109",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 2,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "77.103.167.109"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 82,
+    "user_id": 22,
+    "timestamp": "2025-10-16 15:53:14",
+    "ip": "219.195.76.233",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1558.86,
+      "avg_time_between_attempts_sec": 95.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "219.195.76.233",
+        "142.152.116.201"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 83,
+    "user_id": 3,
+    "timestamp": "2025-10-20 17:09:25",
+    "ip": "85.227.251.103",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3558.19,
+      "avg_time_between_attempts_sec": 111.75,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "85.227.251.103",
+        "14.100.181.251",
+        "155.219.90.177"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 84,
+    "user_id": 25,
+    "timestamp": "2025-10-21 02:56:17",
+    "ip": "149.128.71.94",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "otp_attempt",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1477.3,
+      "avg_time_between_attempts_sec": 299.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 2,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "149.128.71.94",
+        "239.209.17.73"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 85,
+    "user_id": 6,
+    "timestamp": "2025-10-19 12:58:40",
+    "ip": "160.137.117.115",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2257.05,
+      "avg_time_between_attempts_sec": 114.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "160.137.117.115",
+        "119.16.48.85",
+        "36.9.154.26"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 86,
+    "user_id": 6,
+    "timestamp": "2025-10-19 18:45:39",
+    "ip": "236.25.148.204",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3461.54,
+      "avg_time_between_attempts_sec": 140.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "236.25.148.204"
+      },
+      "related_ips_sample": [
+        "236.25.148.204",
+        "236.190.18.195",
+        "133.160.176.223"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 87,
+    "user_id": 28,
+    "timestamp": "2025-10-17 13:01:36",
+    "ip": "238.91.209.28",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "238.91.209.28"
+      },
+      "related_ips_sample": [
+        "238.91.209.28"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 88,
+    "user_id": 9,
+    "timestamp": "2025-10-15 08:52:34",
+    "ip": "191.175.75.240",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4176.94,
+      "avg_time_between_attempts_sec": 107.4,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "191.175.75.240",
+        "181.207.240.221",
+        "147.248.184.88"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 89,
+    "user_id": 2,
+    "timestamp": "2025-10-20 08:46:23",
+    "ip": "220.77.106.23",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3574.09,
+      "avg_time_between_attempts_sec": 107.25,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 1,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "220.77.106.23",
+        "242.158.54.94",
+        "240.253.190.60"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 90,
+    "user_id": 16,
+    "timestamp": "2025-10-15 05:29:31",
+    "ip": "132.192.241.42",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1472.39,
+      "avg_time_between_attempts_sec": 312.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "132.192.241.42",
+        "180.163.252.173"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 91,
+    "user_id": 6,
+    "timestamp": "2025-10-16 13:30:20",
+    "ip": "29.200.159.232",
+    "device_info": "Dalvik/2.1.0 (Linux; U; Android 11; SM-G981B Build/RP1A)",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "29.200.159.232"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 92,
+    "user_id": 14,
+    "timestamp": "2025-10-20 13:53:45",
+    "ip": "130.184.2.249",
+    "device_info": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) Safari/605.1.15",
+    "event_type": "logout",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2807.02,
+      "avg_time_between_attempts_sec": 168.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "130.184.2.249"
+      },
+      "related_ips_sample": [
+        "130.184.2.249",
+        "27.129.195.119",
+        "217.130.167.11"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 93,
+    "user_id": 13,
+    "timestamp": "2025-10-14 22:32:22",
+    "ip": "108.155.149.110",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 4,
+      "geo_velocity_kmh": 2950.06,
+      "avg_time_between_attempts_sec": 101.67,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "108.155.149.110",
+        "91.37.172.242",
+        "99.246.121.197"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 94,
+    "user_id": 7,
+    "timestamp": "2025-10-14 23:26:30",
+    "ip": "88.183.144.170",
+    "device_info": "curl/7.68.0",
+    "event_type": "otp_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 5,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "88.183.144.170"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 95,
+    "user_id": 26,
+    "timestamp": "2025-10-15 01:49:00",
+    "ip": "173.253.24.43",
+    "device_info": "curl/7.68.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3511.34,
+      "avg_time_between_attempts_sec": 125.25,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "173.253.24.43",
+        "80.77.27.198",
+        "143.109.18.145"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 96,
+    "user_id": 16,
+    "timestamp": "2025-10-19 20:09:38",
+    "ip": "26.123.220.170",
+    "device_info": "curl/7.68.0",
+    "event_type": "password_reset",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2351.02,
+      "avg_time_between_attempts_sec": 37.5,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "26.123.220.170"
+      },
+      "related_ips_sample": [
+        "26.123.220.170",
+        "190.61.126.191",
+        "129.96.3.16"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 97,
+    "user_id": 29,
+    "timestamp": "2025-10-15 03:36:47",
+    "ip": "151.245.178.46",
+    "device_info": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 5,
+      "geo_velocity_kmh": 3547.67,
+      "avg_time_between_attempts_sec": 114.75,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "151.245.178.46",
+        "137.200.106.55",
+        "18.72.186.62"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 98,
+    "user_id": 3,
+    "timestamp": "2025-10-19 17:17:01",
+    "ip": "13.120.84.105",
+    "device_info": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0",
+    "event_type": "password_reset",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0.0,
+      "avg_time_between_attempts_sec": 0.0,
+      "unusual_device": 0,
+      "recent_password_change": 1,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "13.120.84.105"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 99,
+    "user_id": 10,
+    "timestamp": "2025-10-17 19:44:18",
+    "ip": "183.185.6.161",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "token_refresh",
+    "outcome": "failed",
+    "extra_features": {
+      "distinct_ips": 6,
+      "geo_velocity_kmh": 4209.5,
+      "avg_time_between_attempts_sec": 101.0,
+      "unusual_device": 0,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {
+        "x_forwarded_for": "183.185.6.161"
+      },
+      "related_ips_sample": [
+        "183.185.6.161",
+        "36.17.95.37",
+        "122.202.249.68"
+      ]
+    },
+    "label": "account_takeover"
+  },
+  {
+    "id": 100,
+    "user_id": 19,
+    "timestamp": "2025-10-18 03:07:18",
+    "ip": "240.138.249.94",
+    "device_info": "Mozilla/5.0 (X11; Linux x86_64) Firefox/121.0",
+    "event_type": "token_refresh",
+    "outcome": "success",
+    "extra_features": {
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 1445.06,
+      "avg_time_between_attempts_sec": 386.0,
+      "unusual_device": 1,
+      "recent_password_change": 0,
+      "email_change": 0,
+      "multiple_failed_otps": 0,
+      "suspicious_headers": {},
+      "related_ips_sample": [
+        "240.138.249.94",
+        "25.40.116.105"
+      ]
+    },
+    "label": "account_takeover"
+  }
+]
