@@ -1,0 +1,148 @@
+{
+  "session_hijack": {
+    "id": 2001,
+    "user_id": 78,
+    "features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 3,
+      "geo_velocity": 8500,
+      "device_change": true,
+      "success_count": 1,
+      "attempts_per_minute": 2,
+      "concurrent_sessions": 2,
+      "impossible_travel": true
+    },
+    "recent_events": [
+      {
+        "timestamp": "2025-10-21T10:00:00Z",
+        "outcome": "success",
+        "ip": "192.168.1.50",
+        "device": "Windows PC - Chrome",
+        "location": "Paris, France"
+      },
+      {
+        "timestamp": "2025-10-21T10:10:00Z",
+        "outcome": "success",
+        "ip": "210.140.10.15",
+        "device": "iPhone - Safari",
+        "location": "Tokyo, Japan"
+      }
+    ],
+    "label": "unknown"
+  },
+  "credential_stuffing": {
+    "id": 2002,
+    "user_id": 45,
+    "features": {
+      "fail_count_5min": 15,
+      "distinct_ips": 8,
+      "geo_velocity": 0,
+      "device_change": false,
+      "success_count": 0,
+      "attempts_per_minute": 12,
+      "distributed_attack": true
+    },
+    "recent_events": [
+      {
+        "timestamp": "2025-10-21T11:00:00Z",
+        "outcome": "failed",
+        "ip": "192.168.1.10",
+        "location": "New York, USA"
+      },
+      {
+        "timestamp": "2025-10-21T11:01:00Z",
+        "outcome": "failed",
+        "ip": "176.45.210.88",
+        "location": "Berlin, Germany"
+      }
+    ],
+    "label": "unknown"
+  },
+  "account_takeover": {
+    "id": 2003,
+    "user_id": 92,
+    "features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 4,
+      "geo_velocity": 3200,
+      "device_change": true,
+      "success_count": 1,
+      "attempts_per_minute": 3,
+      "suspicious_activity": true,
+      "password_changed": true
+    },
+    "recent_events": [
+      {
+        "timestamp": "2025-10-21T09:00:00Z",
+        "outcome": "success",
+        "ip": "192.168.1.100",
+        "device": "MacBook Pro - Safari",
+        "location": "London, UK"
+      },
+      {
+        "timestamp": "2025-10-21T12:00:00Z",
+        "outcome": "success",
+        "ip": "185.143.221.12",
+        "device": "Unknown Android",
+        "location": "Moscow, Russia",
+        "action": "password_change"
+      }
+    ],
+    "label": "unknown"
+  },
+  "brute_force": {
+    "id": 2004,
+    "user_id": 45,
+    "features": {
+      "fail_count_5min": 25,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "device_change": false,
+      "success_count": 0,
+      "attempts_per_minute": 30
+    },
+    "recent_events": [
+      {
+        "timestamp": "2025-10-21T14:30:00Z",
+        "outcome": "failed",
+        "ip": "203.0.113.15",
+        "device": "Unknown Script"
+      },
+      {
+        "timestamp": "2025-10-21T14:30:02Z",
+        "outcome": "failed",
+        "ip": "203.0.113.15",
+        "device": "Unknown Script"
+      }
+    ],
+    "label": "unknown"
+  },
+  "password_spraying": {
+    "id": 2005,
+    "user_id": 67,
+    "features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 2,
+      "geo_velocity": 0,
+      "device_change": false,
+      "success_count": 0,
+      "attempts_per_minute": 5,
+      "common_passwords": true
+    },
+    "recent_events": [
+      {
+        "timestamp": "2025-10-21T15:00:00Z",
+        "outcome": "failed",
+        "ip": "192.168.1.20",
+        "password_attempted": "Winter2024!"
+      },
+      {
+        "timestamp": "2025-10-21T15:00:30Z",
+        "outcome": "failed",
+        "ip": "192.168.1.21",
+        "password_attempted": "Company123!"
+      }
+    ],
+    "label": "unknown"
+  }
+}

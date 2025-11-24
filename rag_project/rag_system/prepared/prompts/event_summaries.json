@@ -1,0 +1,82 @@
+[
+  {
+    "id": "session_hijack_example",
+    "description": "User session appears simultaneously from New York and Tokyo within 10 minutes",
+    "features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 10800,
+      "concurrent_sessions": 2
+    },
+    "expected_label": "session_hijack"
+  },
+  {
+    "id": "credential_stuffing_example",
+    "description": "Multiple failed logins across different user accounts from distributed IPs",
+    "features": {
+      "fail_count_5min": 15,
+      "distinct_ips": 8,
+      "geo_velocity_kmh": 0,
+      "accounts_affected": 12
+    },
+    "expected_label": "credential_stuffing"
+  },
+  {
+    "id": "brute_force_example",
+    "description": "Rapid sequential password attempts on admin@company.com from single IP",
+    "features": {
+      "fail_count_5min": 45,
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0,
+      "target_account": "admin@company.com"
+    },
+    "expected_label": "brute_force"
+  },
+  {
+    "id": "password_spraying_example",
+    "description": "Single common password attempted across multiple employee accounts",
+    "features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 2,
+      "geo_velocity_kmh": 0,
+      "common_password": "Company2024!"
+    },
+    "expected_label": "password_spraying"
+  },
+  {
+    "id": "phishing_attempt_example",
+    "description": "Login from known phishing infrastructure after suspicious email campaign",
+    "features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0,
+      "suspicious_ip": "185.143.221.12"
+    },
+    "expected_label": "phishing_attempt"
+  },
+  {
+    "id": "account_takeover_example",
+    "description": "Successful login followed by password change and unusual data access",
+    "features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 3,
+      "geo_velocity_kmh": 2500,
+      "settings_changed": [
+        "password",
+        "recovery_email"
+      ]
+    },
+    "expected_label": "account_takeover"
+  },
+  {
+    "id": "normal_example",
+    "description": "Regular login from user's home office during business hours",
+    "features": {
+      "fail_count_5min": 0,
+      "distinct_ips": 1,
+      "geo_velocity_kmh": 0,
+      "familiar_device": true
+    },
+    "expected_label": "normal"
+  }
+]

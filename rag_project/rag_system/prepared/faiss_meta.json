@@ -1,674 +1,809 @@
-[
-  {
-    "passage_id": "credential_stuffing_p01",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+{
+  "passage_ids": [
+    "account_takeover_p001",
+    "account_takeover_p002",
+    "account_takeover_p003",
+    "account_takeover_p004",
+    "account_takeover_p005",
+    "account_takeover_p006",
+    "account_takeover_p007",
+    "account_takeover_p008",
+    "account_takeover_p009",
+    "account_takeover_p010",
+    "account_takeover_p011",
+    "account_takeover_p012",
+    "account_takeover_p013",
+    "account_takeover_p014",
+    "account_takeover_p015",
+    "account_takeover_p016",
+    "account_takeover_p017",
+    "account_takeover_p018",
+    "account_takeover_p019",
+    "account_takeover_p020",
+    "account_takeover_p021",
+    "account_takeover_p022",
+    "account_takeover_p023",
+    "account_takeover_p024",
+    "account_takeover_p025",
+    "session_hijack_p001",
+    "session_hijack_p002",
+    "session_hijack_p003",
+    "session_hijack_p004",
+    "session_hijack_p005",
+    "session_hijack_p006",
+    "session_hijack_p007",
+    "session_hijack_p008",
+    "session_hijack_p009",
+    "session_hijack_p010",
+    "session_hijack_p011",
+    "session_hijack_p012",
+    "session_hijack_p013",
+    "session_hijack_p014",
+    "session_hijack_p015",
+    "session_hijack_p016",
+    "session_hijack_p017",
+    "session_hijack_p018",
+    "session_hijack_p019",
+    "session_hijack_p020",
+    "session_hijack_p021",
+    "session_hijack_p022",
+    "session_hijack_p023",
+    "session_hijack_p024",
+    "session_hijack_p025",
+    "phishing_attempt_p001",
+    "phishing_attempt_p002",
+    "phishing_attempt_p003",
+    "phishing_attempt_p004",
+    "phishing_attempt_p005",
+    "phishing_attempt_p006",
+    "phishing_attempt_p007",
+    "phishing_attempt_p008",
+    "phishing_attempt_p009",
+    "phishing_attempt_p010",
+    "phishing_attempt_p011",
+    "phishing_attempt_p012",
+    "phishing_attempt_p013",
+    "phishing_attempt_p014",
+    "phishing_attempt_p015",
+    "phishing_attempt_p016",
+    "phishing_attempt_p017",
+    "phishing_attempt_p018",
+    "phishing_attempt_p019",
+    "phishing_attempt_p020",
+    "phishing_attempt_p021",
+    "phishing_attempt_p022",
+    "phishing_attempt_p023",
+    "phishing_attempt_p024",
+    "phishing_attempt_p025",
+    "credential_stuffing_p001",
+    "credential_stuffing_p002",
+    "credential_stuffing_p003",
+    "credential_stuffing_p004",
+    "credential_stuffing_p005",
+    "credential_stuffing_p006",
+    "credential_stuffing_p007",
+    "credential_stuffing_p008",
+    "credential_stuffing_p009",
+    "credential_stuffing_p010",
+    "credential_stuffing_p011",
+    "credential_stuffing_p012",
+    "credential_stuffing_p013",
+    "credential_stuffing_p014",
+    "credential_stuffing_p015",
+    "credential_stuffing_p016",
+    "credential_stuffing_p017",
+    "credential_stuffing_p018",
+    "credential_stuffing_p019",
+    "credential_stuffing_p020",
+    "credential_stuffing_p021",
+    "credential_stuffing_p022",
+    "credential_stuffing_p023",
+    "credential_stuffing_p024",
+    "credential_stuffing_p025",
+    "brute_force_p001",
+    "brute_force_p002",
+    "brute_force_p003",
+    "brute_force_p004",
+    "brute_force_p005",
+    "brute_force_p006",
+    "brute_force_p007",
+    "brute_force_p008",
+    "brute_force_p009",
+    "brute_force_p010",
+    "brute_force_p011",
+    "brute_force_p012",
+    "brute_force_p013",
+    "brute_force_p014",
+    "brute_force_p015",
+    "brute_force_p016",
+    "brute_force_p017",
+    "brute_force_p018",
+    "brute_force_p019",
+    "brute_force_p020",
+    "brute_force_p021",
+    "brute_force_p022",
+    "brute_force_p023",
+    "brute_force_p024",
+    "brute_force_p025",
+    "credential_stuffing_p001",
+    "credential_stuffing_p002",
+    "credential_stuffing_p003",
+    "credential_stuffing_p004",
+    "credential_stuffing_p005",
+    "credential_stuffing_p006",
+    "credential_stuffing_p007",
+    "credential_stuffing_p008",
+    "credential_stuffing_p009",
+    "credential_stuffing_p010",
+    "credential_stuffing_p011",
+    "credential_stuffing_p012",
+    "credential_stuffing_p013",
+    "credential_stuffing_p014",
+    "credential_stuffing_p015",
+    "credential_stuffing_p016",
+    "credential_stuffing_p017",
+    "credential_stuffing_p018",
+    "credential_stuffing_p019",
+    "credential_stuffing_p020",
+    "credential_stuffing_p021",
+    "credential_stuffing_p022",
+    "credential_stuffing_p023",
+    "credential_stuffing_p024",
+    "credential_stuffing_p025",
+    "normal_p001",
+    "normal_p002",
+    "normal_p003",
+    "normal_p004",
+    "normal_p005",
+    "normal_p006",
+    "normal_p007",
+    "normal_p008",
+    "normal_p009",
+    "normal_p010",
+    "normal_p011",
+    "normal_p012",
+    "normal_p013",
+    "normal_p014",
+    "normal_p015",
+    "normal_p016",
+    "normal_p017",
+    "normal_p018",
+    "normal_p019",
+    "normal_p020",
+    "normal_p021",
+    "normal_p022",
+    "normal_p023",
+    "normal_p024",
+    "normal_p025",
+    "password_spraying_p001",
+    "password_spraying_p002",
+    "password_spraying_p003",
+    "password_spraying_p004",
+    "password_spraying_p005",
+    "password_spraying_p006",
+    "password_spraying_p007",
+    "password_spraying_p008",
+    "password_spraying_p009",
+    "password_spraying_p010",
+    "password_spraying_p011",
+    "password_spraying_p012",
+    "password_spraying_p013",
+    "password_spraying_p014",
+    "password_spraying_p015",
+    "password_spraying_p016",
+    "password_spraying_p017",
+    "password_spraying_p018",
+    "password_spraying_p019",
+    "password_spraying_p020",
+    "password_spraying_p021",
+    "password_spraying_p022",
+    "password_spraying_p023",
+    "password_spraying_p024",
+    "password_spraying_p025"
+  ],
+  "tags": [
+    [
+      "account_takeover"
     ],
-    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "credential_stuffing_p02",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte."
-  },
-  {
-    "passage_id": "credential_stuffing_p03",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "credential_stuffing_p04",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte."
-  },
-  {
-    "passage_id": "credential_stuffing_p05",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Échecs rapides sur le même identifiant avec IP variées — pattern typique de credential stuffing. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "credential_stuffing_p06",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte."
-  },
-  {
-    "passage_id": "credential_stuffing_p07",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Échecs rapides sur le même identifiant avec IP variées — pattern typique de credential stuffing. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "credential_stuffing_p08",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Échecs rapides sur le même identifiant avec IP variées — pattern typique de credential stuffing."
-  },
-  {
-    "passage_id": "credential_stuffing_p09",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "credential_stuffing_p10",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte."
-  },
-  {
-    "passage_id": "credential_stuffing_p11",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Plusieurs tentatives de connexion échouées provenant de différentes IP sur une courte période. Souvent sur le même compte. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "credential_stuffing_p12",
-    "doc_id": "credential_stuffing_doc",
-    "tags": [
-      "credential_stuffing"
+    [
+      "account_takeover"
     ],
-    "content": "Échecs rapides sur le même identifiant avec IP variées — pattern typique de credential stuffing."
-  },
-  {
-    "passage_id": "brute_force_p01",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "brute_force_p02",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable."
-  },
-  {
-    "passage_id": "brute_force_p03",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "brute_force_p04",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable."
-  },
-  {
-    "passage_id": "brute_force_p05",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "brute_force_p06",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable."
-  },
-  {
-    "passage_id": "brute_force_p07",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "brute_force_p08",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force."
-  },
-  {
-    "passage_id": "brute_force_p09",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "brute_force_p10",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable."
-  },
-  {
-    "passage_id": "brute_force_p11",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Nombre important d'essais mot de passe successifs sur un compte, sans variation IP notable. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "brute_force_p12",
-    "doc_id": "brute_force_doc",
-    "tags": [
-      "brute_force"
+    [
+      "account_takeover"
     ],
-    "content": "Tentatives très rapides et répétées sur un même compte depuis la même IP ou plage IP — brute-force."
-  },
-  {
-    "passage_id": "phishing_attempt_p01",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
+    [
+      "account_takeover"
     ],
-    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "phishing_attempt_p02",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Comportement inhabituel après réception d'un email frauduleux : login depuis nouveau device."
-  },
-  {
-    "passage_id": "phishing_attempt_p03",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "phishing_attempt_p04",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing."
-  },
-  {
-    "passage_id": "phishing_attempt_p05",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "phishing_attempt_p06",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing."
-  },
-  {
-    "passage_id": "phishing_attempt_p07",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "phishing_attempt_p08",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Comportement inhabituel après réception d'un email frauduleux : login depuis nouveau device."
-  },
-  {
-    "passage_id": "phishing_attempt_p09",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "phishing_attempt_p10",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Connexion depuis un domaine ou une IP suspecte souvent corrélée à un message de phishing."
-  },
-  {
-    "passage_id": "phishing_attempt_p11",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Comportement inhabituel après réception d'un email frauduleux : login depuis nouveau device. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "phishing_attempt_p12",
-    "doc_id": "phishing_attempt_doc",
-    "tags": [
-      "phishing_attempt"
-    ],
-    "content": "Comportement inhabituel après réception d'un email frauduleux : login depuis nouveau device."
-  },
-  {
-    "passage_id": "session_hijack_p01",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "session_hijack_p02",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session."
-  },
-  {
-    "passage_id": "session_hijack_p03",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "session_hijack_p04",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session."
-  },
-  {
-    "passage_id": "session_hijack_p05",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "session_hijack_p06",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session."
-  },
-  {
-    "passage_id": "session_hijack_p07",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "session_hijack_p08",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session."
-  },
-  {
-    "passage_id": "session_hijack_p09",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "session_hijack_p10",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Changement brusque de device ou IP immédiatement après une authentification réussie — possible détournement de session."
-  },
-  {
-    "passage_id": "session_hijack_p11",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "session_hijack_p12",
-    "doc_id": "session_hijack_doc",
-    "tags": [
+    [
       "session_hijack"
     ],
-    "content": "Connexion depuis une géolocalisation inattendue après un login réussit; pattern divergence du profil normal."
-  },
-  {
-    "passage_id": "malware_activity_p01",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "malware_activity_p02",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante."
-  },
-  {
-    "passage_id": "malware_activity_p03",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "malware_activity_p04",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware."
-  },
-  {
-    "passage_id": "malware_activity_p05",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "malware_activity_p06",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware."
-  },
-  {
-    "passage_id": "malware_activity_p07",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "malware_activity_p08",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante."
-  },
-  {
-    "passage_id": "malware_activity_p09",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "malware_activity_p10",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante."
-  },
-  {
-    "passage_id": "malware_activity_p11",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Accès automatique et répété à des ressources depuis un device particulier — suspicion d'activité malveillante. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "malware_activity_p12",
-    "doc_id": "malware_activity_doc",
-    "tags": [
-      "malware_activity"
+    [
+      "session_hijack"
     ],
-    "content": "Actions inhabituelles sur le compte (ex: exécution de scripts, accès à ressources multiples) pouvant indiquer la présence d'un malware."
-  },
-  {
-    "passage_id": "insider_threat_p01",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "session_hijack"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "insider_threat_p02",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel."
-  },
-  {
-    "passage_id": "insider_threat_p03",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "insider_threat_p04",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel."
-  },
-  {
-    "passage_id": "insider_threat_p05",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Téléchargements massifs ou accès hors horaire d'un compte interne — comportement anormal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "insider_threat_p06",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel."
-  },
-  {
-    "passage_id": "insider_threat_p07",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Téléchargements massifs ou accès hors horaire d'un compte interne — comportement anormal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "insider_threat_p08",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel."
-  },
-  {
-    "passage_id": "insider_threat_p09",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "insider_threat_p10",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel."
-  },
-  {
-    "passage_id": "insider_threat_p11",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Téléchargements massifs ou accès hors horaire d'un compte interne — comportement anormal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "insider_threat_p12",
-    "doc_id": "insider_threat_doc",
-    "tags": [
-      "insider_threat"
+    [
+      "phishing_attempt"
     ],
-    "content": "Accès ou modifications de ressources sensibles par un utilisateur interne en dehors de son rôle habituel."
-  },
-  {
-    "passage_id": "normal_p01",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "phishing_attempt"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "brute_force"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
+      "credential_stuffing"
+    ],
+    [
       "normal"
     ],
-    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "normal_p02",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Échec isolé de mot de passe puis succès depuis le même device — comportement normal."
-  },
-  {
-    "passage_id": "normal_p03",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "normal_p04",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur."
-  },
-  {
-    "passage_id": "normal_p05",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Échec isolé de mot de passe puis succès depuis le même device — comportement normal. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "normal_p06",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur."
-  },
-  {
-    "passage_id": "normal_p07",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "normal_p08",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur."
-  },
-  {
-    "passage_id": "normal_p09",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "normal_p10",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Échec isolé de mot de passe puis succès depuis le même device — comportement normal."
-  },
-  {
-    "passage_id": "normal_p11",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Login réussi depuis un device connu; comportements cohérents avec l'historique utilisateur. Indices : fréquence, IP, device."
-  },
-  {
-    "passage_id": "normal_p12",
-    "doc_id": "normal_doc",
-    "tags": [
+    [
       "normal"
     ],
-    "content": "Échec isolé de mot de passe puis succès depuis le même device — comportement normal."
-  }
-]
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "normal"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ],
+    [
+      "password_spraying"
+    ]
+  ],
+  "embedding_model": "all-MiniLM-L6-v2",
+  "dimension": 384,
+  "total_passages": 200
+}

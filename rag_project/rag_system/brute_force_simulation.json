@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:00Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 1,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "password123"
+    }
+  },
+  {
+    "id": 2,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:02Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 2,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "password123"
+    }
+  },
+  {
+    "id": 3,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:04Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 3,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "123456"
+    }
+  },
+  {
+    "id": 4,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:06Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 4,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "123456"
+    }
+  },
+  {
+    "id": 5,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:08Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 5,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "admin"
+    }
+  },
+  {
+    "id": 6,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:10Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 6,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "admin"
+    }
+  },
+  {
+    "id": 7,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:12Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 7,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "letmein"
+    }
+  },
+  {
+    "id": 8,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:14Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 8,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "letmein"
+    }
+  },
+  {
+    "id": 9,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:16Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 9,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "qwerty"
+    }
+  },
+  {
+    "id": 10,
+    "user_id": 45,
+    "timestamp": "2025-10-21T14:30:18Z",
+    "ip": "203.0.113.15",
+    "device_info": "Unknown Script - Python",
+    "event_type": "login_attempt",
+    "outcome": "failed",
+    "extra_features": {
+      "fail_count_5min": 10,
+      "distinct_ips": 1,
+      "geo_velocity": 0,
+      "password_attempted": "qwerty"
+    }
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "passage_id": "account_takeover_p001",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 3; Geo velocity: 2232.56 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p002",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 4; Geo velocity: 2936.53 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p003",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 1; Geo velocity: 0.0 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p004",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 3; Geo velocity: 2205.21 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p005",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 6; Geo velocity: 4293.17 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p006",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 5; Geo velocity: 3765.69 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p007",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 1; Geo velocity: 0.0 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p008",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 3; Geo velocity: 2190.67 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p009",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 4; Geo velocity: 2887.94 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p010",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 4; Geo velocity: 2909.09 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p011",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 1; Geo velocity: 0.0 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p012",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 4; Geo velocity: 2878.56 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p013",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 1; Geo velocity: 0.0 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p014",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 5; Geo velocity: 3461.54 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p015",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 5; Geo velocity: 3607.21 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p016",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 6; Geo velocity: 4236.33 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p017",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 5; Geo velocity: 3532.88 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p018",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 3; Geo velocity: 2205.77 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p019",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 2; Geo velocity: 1509.04 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p020",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 5; Geo velocity: 3667.86 km/h; Device changes: 0; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p021",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 2; Geo velocity: 1488.76 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p022",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 6; Geo velocity: 4355.94 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p023",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 6; Geo velocity: 4168.88 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p024",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 6; Geo velocity: 4306.01 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "account_takeover_p025",
+    "doc_id": "account_takeover_doc",
+    "content": "ATTACK TYPE: ACCOUNT_TAKEOVER\n\n\nACCOUNT TAKEOVER: Attacker gains unauthorized access to a legitimate user's account using stolen credentials.\nCOMPROMISE METHOD: Credentials obtained through data breaches, phishing, or malware.\nPOST-COMPROMISE: Attacker changes security settings, accesses sensitive data, or performs unauthorized actions.\nDETECTION: Unusual login locations, password/email changes, unfamiliar devices, abnormal activity patterns.\n        \n\nDETECTION SIGNALS: Distinct IPs: 2; Geo velocity: 1577.65 km/h; Device changes: 1; Multiple security setting modifications; Unusual resource access patterns",
+    "tags": [
+      "account_takeover"
+    ],
+    "source_file": "account_takeover_examples.json",
+    "attack_type": "account_takeover"
+  },
+  {
+    "passage_id": "session_hijack_p001",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 1; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p002",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 1; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p003",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p004",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 4; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p005",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 4; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p006",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p007",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p008",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 2; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p009",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p010",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p011",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p012",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 4; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p013",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 5; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p014",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p015",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 2; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p016",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p017",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 2; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p018",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 1; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p019",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 5; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p020",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 4; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p021",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p022",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p023",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p024",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 3; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "session_hijack_p025",
+    "doc_id": "session_hijack_doc",
+    "content": "ATTACK TYPE: SESSION_HIJACK\n\n\nSESSION HIJACKING: Attacker steals active user session tokens to impersonate legitimate users.\nMETHODS: Cross-site scripting, man-in-the-middle attacks, session sidejacking, or malware.\nEVIDENCE: Concurrent sessions, impossible travel between geographic locations, session token reuse.\nIMPACT: Unauthorized access without needing login credentials, bypassing authentication.\n        \n\nDETECTION SIGNALS: Geo velocity: 0 km/h; Distinct IPs: 5; Concurrent active sessions; Session token anomalies; Impossible travel timelines",
+    "tags": [
+      "session_hijack"
+    ],
+    "source_file": "auth_logs_multi-geo_anomaly.json",
+    "attack_type": "session_hijack"
+  },
+  {
+    "passage_id": "phishing_attempt_p001",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p002",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p003",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p004",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p005",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p006",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p007",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p008",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p009",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p010",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p011",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p012",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p013",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p014",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p015",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p016",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p017",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p018",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p019",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p020",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p021",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p022",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p023",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p024",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "phishing_attempt_p025",
+    "doc_id": "phishing_attempt_doc",
+    "content": "ATTACK TYPE: PHISHING_ATTEMPT\n\n\nPHISHING ATTEMPT: Login attempts following user exposure to phishing campaigns.\nORIGIN: Known malicious IP ranges, suspicious domains, infrastructure linked to phishing operations.\nPATTERN: Successful logins shortly after phishing email delivery to target users.\nINDICATORS: New device usage, password reset requests, access from blacklisted IP ranges.\n        \n\nDETECTION SIGNALS: Fail count: 0; Known malicious IP ranges; New device registration; Suspicious user-agent patterns; Correlation with phishing email delivery",
+    "tags": [
+      "phishing_attempt"
+    ],
+    "source_file": "auth_logs_phishing_dataset.json",
+    "attack_type": "phishing_attempt"
+  },
+  {
+    "passage_id": "credential_stuffing_p001",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p002",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p003",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p004",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p005",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p006",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p007",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p008",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p009",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p010",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p011",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p012",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p013",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p014",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p015",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p016",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p017",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p018",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p019",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p020",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p021",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p022",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p023",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p024",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p025",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "automated_login_flood_100.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "brute_force_p001",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p002",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 2; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p003",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 3; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p004",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 4; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p005",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 5; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p006",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 6; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p007",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 7; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p008",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 8; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p009",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p010",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 2; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p011",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 3; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p012",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 4; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p013",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 5; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p014",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 6; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p015",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 7; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p016",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 8; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p017",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 9; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p018",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 10; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p019",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p020",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 2; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p021",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 3; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p022",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 4; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p023",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 5; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p024",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 6; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "brute_force_p025",
+    "doc_id": "brute_force_doc",
+    "content": "ATTACK TYPE: BRUTE_FORCE\n\n\nBRUTE FORCE ATTACK: Systematic password guessing against specific target accounts.\nINTENSITY: High-frequency attempts using password dictionaries, common patterns, and incremental changes.\nFOCUS: Concentrated attacks on individual accounts or high-value targets.\nPREVENTION: Account lockouts, CAPTCHA challenges, progressive delays, suspicious login detection.\n        \n\nDETECTION SIGNALS: Fail count: 7; Distinct IPs: 1; High-frequency targeted attempts; Password dictionary patterns; Concentrated attack on specific accounts",
+    "tags": [
+      "brute_force"
+    ],
+    "source_file": "brute_force_100_scenarios.json",
+    "attack_type": "brute_force"
+  },
+  {
+    "passage_id": "credential_stuffing_p001",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 35; Distinct IPs: 4; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p002",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 24; Distinct IPs: 6; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p003",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 5; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p004",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 17; Distinct IPs: 4; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p005",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 25; Distinct IPs: 2; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p006",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 39; Distinct IPs: 5; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p007",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 8; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p008",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 37; Distinct IPs: 6; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p009",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 7; Distinct IPs: 7; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p010",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 3; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p011",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 6; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p012",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 34; Distinct IPs: 2; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p013",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 20; Distinct IPs: 7; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p014",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 9; Distinct IPs: 5; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p015",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 24; Distinct IPs: 1; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p016",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 6; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p017",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 4; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p018",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 40; Distinct IPs: 7; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p019",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 39; Distinct IPs: 4; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p020",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 15; Distinct IPs: 2; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p021",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 8; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p022",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 4; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p023",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 7; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p024",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 31; Distinct IPs: 8; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "credential_stuffing_p025",
+    "doc_id": "credential_stuffing_doc",
+    "content": "ATTACK TYPE: CREDENTIAL_STUFFING\n\n\nCREDENTIAL STUFFING: Automated testing of username/password pairs from previous data breaches.\nSCALE: Testing thousands of known compromised credentials across multiple services.\nPATTERN: Distributed login attempts from multiple IP addresses with moderate failure rates.\nDEFENSE: Multi-factor authentication, breached password detection, rate limiting.\n        \n\nDETECTION SIGNALS: Fail count: 20; Distinct IPs: 4; Moderate failure rates across multiple accounts; Known breached credential patterns; Distributed botnet behavior",
+    "tags": [
+      "credential_stuffing"
+    ],
+    "source_file": "credential_stuffing_examples.json",
+    "attack_type": "credential_stuffing"
+  },
+  {
+    "passage_id": "normal_p001",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p002",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p003",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p004",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p005",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p006",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p007",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p008",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p009",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p010",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p011",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p012",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p013",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p014",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p015",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p016",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p017",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p018",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p019",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p020",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p021",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p022",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p023",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p024",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "normal_p025",
+    "doc_id": "normal_doc",
+    "content": "ATTACK TYPE: NORMAL\n\n\nNORMAL BEHAVIOR: Standard authentication patterns consistent with established user profiles.\nCHARACTERISTICS: Familiar devices, expected geographic locations, typical access times.\nBASELINE: Consistent login success/failure rates matching historical user behavior.\nSECURITY: No anomalies detected - aligns with regular access patterns and organizational policies.\n        \n\nDETECTION SIGNALS: Fail count: 0; Distinct IPs: 1; Expected geographic patterns; Familiar device usage; Consistent access timing",
+    "tags": [
+      "normal"
+    ],
+    "source_file": "normal_800_scenarios.json",
+    "attack_type": "normal"
+  },
+  {
+    "passage_id": "password_spraying_p001",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p002",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p003",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p004",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p005",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p006",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p007",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p008",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p009",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p010",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p011",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p012",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p013",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p014",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p015",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p016",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p017",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p018",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p019",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p020",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p021",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p022",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p023",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p024",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  },
+  {
+    "passage_id": "password_spraying_p025",
+    "doc_id": "password_spraying_doc",
+    "content": "ATTACK TYPE: PASSWORD_SPRAYING\n\n\nPASSWORD SPRAYING: Attackers try a few common passwords across many user accounts.\nSTRATEGY: Using passwords like 'Winter2024!', 'Company123!', 'Password123' organization-wide.\nSTEALTH: Low failure rate per account to avoid detection, but widespread across user base.\nRISK: High success probability if any user employs weak or common passwords.\n        \n\nDETECTION SIGNALS: Fail count: 1; Distinct IPs: 1; Low failure rate per account; Widespread across user base; Common password patterns",
+    "tags": [
+      "password_spraying"
+    ],
+    "source_file": "password_spraying_100_scenarios.json",
+    "attack_type": "password_spraying"
+  }
+]
